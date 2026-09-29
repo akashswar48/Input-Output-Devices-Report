@@ -85,7 +85,7 @@ Input and output devices are essential because they help people interact with co
 ## 4. Step 3: Biodata
 
 ### Student Biodata
-Name: [Your Full Name]
+Name: Amit Chaudhary
 
 Class: [Class/Year]
 
